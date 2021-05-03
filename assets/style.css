@@ -1,0 +1,120 @@
+body{
+    background-color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    line-height: 15px; 
+    color: #967a50;
+}
+.banner {
+    width: 100%;
+}
+
+
+
+h1,h2,h3,h4,h5,h6{
+    font-family:'Old Standard TT', serif;line-height: 1em;margin: 0;
+}
+h1{
+    font-size: 5em;
+}
+h1.title,h2{
+    font-size: 2em;line-height: 3em;
+}
+h3{
+    font-size: 1.5em; margin-bottom: 0.70em;
+}
+h4{
+    font-size: 1.25em; margin-bottom: 0.75em;
+}
+p
+{margin-bottom: 1em;line-height: 1.5em;
+}
+
+
+
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus{
+    background-color: #bfa145;
+    border-color: #bfa145;
+}
+.pagination>li>a, .pagination>li>span{
+    color: #967a50;
+}
+.spacer{
+    padding:6em 0; 
+}
+.navbar{
+    margin: 0;
+}
+.navbar-nav{
+    margin:0 -15px;
+}
+.navbar-nav > li > a{
+    font-size: 1em;
+    line-height: 4.26em;
+    padding: 10px 0 10px 30px;
+}
+.navbar-default{
+    border:none;
+    background: #231f20;
+}
+.navbar-brand{
+    height: 83px;
+}
+footer{
+    background-color:#231f20;
+    color: #AEAEAC;
+}
+footer.spacer{
+    padding: 3em 0;
+}
+footer h4{
+    color: #967a50;
+}
+footer a,footer p{
+    line-height: 1.5em;
+    font-size: 0.85em;
+    color: #967a50;;
+}
+footer a:hover{
+    color: #fff;
+}
+.copyright{
+    background-color: #231f20;
+    padding: 0.6em 0;
+    font-size: 0.85em;
+    color: #967a50;
+}
+.copyright a{
+    color: #AEAEAC;
+}
+.rooms{
+    margin-bottom: 2em;
+}
+.rooms .info{
+    padding: 1.5em;
+    background-color: #E8E7E0;
+}
+.room-features .amenitites li{
+    margin-bottom: 1em;
+}
+.room-features .size-price{
+    background-color: #C7C5BB;
+    padding: 2em 0;
+    text-align: center;
+    color: #fff;
+    height: 10.97em;
+    line-height: 3em;
+}
+.room-features .size-price span{
+    display: block;
+    font-size: 2em;
+}
+
+
+.gallery .gallery-image{margin-bottom: 2em;
+    display: inline-block;
+}
+.gallery .gallery-image img{
+    width: 100%;
+}
+
